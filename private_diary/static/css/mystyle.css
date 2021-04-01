@@ -1,0 +1,44 @@
+body{
+/*font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',
+serif;*/
+
+}
+/*.container{
+    background-color:blue;
+}*/
+a {
+    background-color:red;
+    color:#00f;
+}
+
+.post-title{
+    font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',
+    serif;
+}
+.post-subtitle{
+    font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',
+    serif;
+}
+
+p{
+    font-family: 'Yu Mincho Light','YuMincho','Yu Mincho','游明朝体',
+    serif;
+}
+
+#navbarResponsive{
+    color:blue;
+}
+body,#wrapper{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+footer{
+    margin-top: auto;
+}
+
+.my-div-style{
+    margin-top:7rem;
+}
