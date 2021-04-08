@@ -22,7 +22,7 @@ LOGGING={
             'level':'INFO',
         },
         'diary':{
-            'handlers':['fie'],
+            'handlers':['file'],
             'level':'INFO',
         },
     },
